@@ -1,0 +1,325 @@
+,name,size,monster_type,alignment,ac,hp,strength,str_mod,dex,dex_mod,con,con_mod,intel,int_mod,wis,wis_mod,cha,cha_mod,senses,languages,cr,str_save,dex_save,con_save,int_save,wis_save,cha_save,speed,swim,fly,climb,burrow,number_legendary_actions,history,perception,stealth,persuasion,insight,deception,arcana,religion,acrobatics,athletics,intimidation
+0,Aboleth,Large,Aberration,lawful evil,17,135,21,5,9,-1,15,2,18,4,15,2,18,4,"Darkvision 120 Ft., passive Perception 20","Deep Speech, Telepathy 120 Ft.",10,0,0,6,8,6,0,10,40,0,0,0,3,12,10,0,0,0,0,0,0,0,0,0
+1,Acolyte,Medium,Humanoid (any race),any alignment,10,9,10,0,10,0,10,0,10,0,14,2,11,0,passive Perception 12,Any One Language (Usually Common),1/4,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,Adult Black Dragon,Huge,Dragon,chaotic evil,19,195,23,6,14,2,21,5,14,2,13,1,17,3,"Blindsight 60 Ft., Darkvision 120 Ft., passive Perception 21","Common, Draconic",14,0,7,10,0,6,8,40,40,80,0,0,3,0,11,7,0,0,0,0,0,0,0,0
+3,Adult Blue Dragon,Huge,Dragon,lawful evil,19,225,25,7,10,0,23,6,16,3,15,2,19,4,"Blindsight 60 Ft., Darkvision 120 Ft., passive Perception 22","Common, Draconic",16,0,5,11,0,7,9,40,0,80,0,30,3,0,12,5,0,0,0,0,0,0,0,0
+4,Adult Brass Dragon,Huge,Dragon,chaotic good,18,172,23,6,10,0,21,5,14,2,13,1,17,3,"Blindsight 60 Ft., Darkvision 120 Ft., passive Perception 21","Common, Draconic",13,0,5,10,0,6,8,40,0,80,0,40,3,7,11,5,8,0,0,0,0,0,0,0
+5,Adult Bronze Dragon,Huge,Dragon,lawful good,19,212,25,7,10,0,23,6,16,3,15,2,19,4,"Blindsight 60 Ft., Darkvision 120 Ft., passive Perception 22","Common, Draconic",15,0,5,11,0,7,9,40,40,80,0,0,3,0,12,5,0,7,0,0,0,0,0,0
+6,Adult Copper Dragon,Huge,Dragon,chaotic good,18,184,23,6,12,1,21,5,18,4,15,2,17,3,"Blindsight 60 Ft., Darkvision 120 Ft., passive Perception 22","Common, Draconic",14,0,6,10,0,7,8,40,0,80,40,0,3,0,12,6,0,0,8,0,0,0,0,0
+7,Adult Gold Dragon,Huge,Dragon,lawful good,19,256,27,8,14,2,25,7,16,3,15,2,24,7,"Blindsight 60 Ft., Darkvision 120 Ft., passive Perception 24","Common, Draconic",17,0,8,13,0,8,13,40,40,80,0,0,3,0,14,8,13,8,0,0,0,0,0,0
+8,Adult Green Dragon,Huge,Dragon,lawful evil,19,207,23,6,12,1,21,5,18,4,15,2,17,3,"Blindsight 60 Ft., Darkvision 120 Ft., passive Perception 22","Common, Draconic",15,0,6,10,0,7,8,40,40,80,0,0,3,0,12,6,8,7,8,0,0,0,0,0
+9,Adult Red Dragon,Huge,Dragon,chaotic evil,19,256,27,8,10,0,25,7,16,3,13,1,21,5,"Blindsight 60 Ft., Darkvision 120 Ft., passive Perception 23","Common, Draconic",17,0,6,13,0,7,11,40,0,80,40,0,3,0,13,6,0,0,0,0,0,0,0,0
+10,Adult Silver Dragon,Huge,Dragon,lawful good,19,243,27,8,10,0,25,7,16,3,13,1,21,5,"Blindsight 60 Ft., Darkvision 120 Ft., passive Perception 21","Common, Draconic",16,0,5,12,0,6,10,40,0,80,0,0,3,8,11,5,0,0,0,8,0,0,0,0
+11,Adult White Dragon,Huge,Dragon,chaotic evil,18,200,22,6,10,0,22,6,8,-1,12,1,12,1,"Blindsight 60 Ft., Darkvision 120 Ft., passive Perception 21","Common, Draconic",13,0,5,11,0,6,6,40,40,80,0,30,3,0,11,5,0,0,0,0,0,0,0,0
+12,Air Elemental,Large,Elemental,neutral,15,90,14,2,20,5,14,2,6,-2,10,0,6,-2,"Darkvision 60 Ft., passive Perception 10",Auran,5,0,0,0,0,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,Ancient Black Dragon,Gargantuan,Dragon,chaotic evil,22,367,27,8,14,2,25,7,16,3,15,2,19,4,"Blindsight 60 Ft., Darkvision 120 Ft., passive Perception 26","Common, Draconic",21,0,9,14,0,9,11,40,40,80,0,0,3,0,16,9,0,0,0,0,0,0,0,0
+14,Ancient Blue Dragon,Gargantuan,Dragon,lawful evil,22,481,29,9,10,0,27,8,18,4,17,3,21,5,"Blindsight 60 Ft., Darkvision 120 Ft., passive Perception 27","Common, Draconic",23,0,7,15,0,10,12,40,0,80,0,40,3,0,17,7,0,0,0,0,0,0,0,0
+15,Ancient Brass Dragon,Gargantuan,Dragon,chaotic good,20,297,27,8,10,0,25,7,16,3,15,2,19,4,"Blindsight 60 Ft., Darkvision 120 Ft., passive Perception 24","Common, Draconic",20,0,6,13,0,8,10,40,0,80,0,40,3,9,14,6,10,0,0,0,0,0,0,0
+16,Ancient Bronze Dragon,Gargantuan,Dragon,lawful good,22,444,29,9,10,0,27,8,18,4,17,3,21,5,"Blindsight 60 Ft., Darkvision 120 Ft., passive Perception 27","Common, Draconic",22,0,7,15,0,10,12,40,40,80,0,0,3,0,17,7,0,10,0,0,0,0,0,0
+17,Ancient Copper Dragon,Gargantuan,Dragon,chaotic good,21,350,27,8,12,1,25,7,20,5,17,3,19,4,"Blindsight 60 Ft., Darkvision 120 Ft., passive Perception 27","Common, Draconic",21,0,8,14,0,10,11,40,0,80,40,0,3,0,17,8,0,0,11,0,0,0,0,0
+18,Ancient Gold Dragon,Gargantuan,Dragon,lawful good,22,546,30,1,14,2,29,9,18,4,17,3,28,9,"Blindsight 60 Ft., Darkvision 120 Ft., passive Perception 27","Common, Draconic",24,0,9,16,0,10,16,40,40,80,0,0,3,0,17,9,16,10,0,0,0,0,0,0
+19,Ancient Green Dragon,Gargantuan,Dragon,lawful evil,21,385,27,8,12,1,25,7,20,5,17,3,19,4,"Blindsight 60 Ft., Darkvision 120 Ft., passive Perception 27","Common, Draconic",22,0,8,14,0,10,11,40,40,80,0,0,3,0,17,8,11,10,11,0,0,0,0,0
+20,Ancient Red Dragon,Gargantuan,Dragon,chaotic evil,22,546,30,1,10,0,29,9,18,4,15,2,23,6,"Blindsight 60 Ft., Darkvision 120 Ft., passive Perception 26","Common, Draconic",24,0,7,16,0,9,13,40,0,80,40,0,3,0,16,7,0,0,0,0,0,0,0,0
+21,Ancient Silver Dragon,Gargantuan,Dragon,lawful good,22,487,30,1,10,0,29,9,18,4,15,2,23,6,"Blindsight 60 Ft., Darkvision 120 Ft., passive Perception 26","Common, Draconic",23,0,7,16,0,9,13,40,0,80,0,0,3,11,16,7,0,0,0,11,0,0,0,0
+22,Ancient White Dragon,Gargantuan,Dragon,chaotic evil,20,333,26,8,10,0,26,8,10,0,13,1,14,2,"Blindsight 60 Ft., Darkvision 120 Ft., passive Perception 23","Common, Draconic",20,0,6,14,0,7,8,40,40,80,0,40,3,0,13,6,0,0,0,0,0,0,0,0
+23,Androsphinx,Large,Monstrosity,lawful neutral,17,199,22,6,10,0,20,5,16,3,18,4,23,6,"Truesight 120 Ft., passive Perception 20","Common, Sphinx",17,0,6,11,9,10,0,40,0,60,0,0,3,0,10,0,0,0,0,9,15,0,0,0
+24,Animated Armor,Medium,Construct,unaligned,18,33,14,2,11,0,13,1,1,-5,3,-4,1,-5,"Blindsight 60 Ft. (Blind Beyond This Radius), passive Perception 6",,1,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,Ankheg,Large,Monstrosity,unaligned,14,39,17,3,11,0,13,1,1,-5,13,1,6,-2,,,2,0,0,0,0,0,0,30,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0
+26,Ape,Medium,Beast,unaligned,12,19,16,3,14,2,14,2,6,-2,12,1,7,-2,passive Perception 13,,1/2,0,0,0,0,0,0,30,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,Archmage,Medium,Humanoid (any race),any alignment,12,99,10,0,14,2,12,1,20,5,15,2,16,3,passive Perception 12,Any Six Languages,12,0,0,0,9,6,0,30,0,0,0,0,0,13,0,0,0,0,0,13,0,0,0,0
+28,Assassin,Medium,Humanoid (any race),any non-good alignment,15,78,11,0,16,3,14,2,13,1,11,0,10,0,passive Perception 13,Thieves' Cant Plus Any Two Languages,8,0,6,0,4,0,0,30,0,0,0,0,0,0,3,9,0,0,3,0,0,6,0,0
+29,Awakened Shrub,Small,Plant,unaligned,9,10,3,-4,8,-1,11,0,10,0,10,0,6,-2,passive Perception 10,One Language Known By Its Creator,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,Awakened Tree,Huge,Plant,unaligned,13,59,19,4,6,-2,15,2,10,0,10,0,7,-2,passive Perception 10,One Language Known By Its Creator,2,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,Axe Beak,Large,Beast,unaligned,11,19,14,2,12,1,12,1,2,-4,10,0,5,-3,,,1/4,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,Azer,Medium,Elemental,lawful neutral,17,39,17,3,12,1,15,2,12,1,13,1,10,0,passive Perception 11,Ignan,2,0,0,4,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,Baboon,Small,Beast,unaligned,12,3,8,-1,14,2,11,0,4,-3,12,1,6,-2,,,0,0,0,0,0,0,0,30,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,Badger,Tiny,Beast,unaligned,10,3,4,-3,11,0,12,1,2,-4,12,1,5,-3,,,0,0,0,0,0,0,0,20,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0
+35,Balor,Huge,Fiend (demon),chaotic evil,19,262,26,8,15,2,22,6,20,5,16,3,22,6,"Truesight 120 Ft., passive Perception 13","Abyssal, Telepathy 120 Ft.",19,14,0,12,0,9,12,40,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,Bandit,Medium,Humanoid (any race),any non-lawful alignment,12,11,11,0,12,1,12,1,10,0,10,0,10,0,,Any One Language (Usually Common),1/8,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,Bandit Captain,Medium,Humanoid (any race),any non-lawful alignment,15,65,15,2,16,3,14,2,14,2,11,0,14,2,passive Perception 10,Any Two Languages,2,4,5,0,0,2,0,30,0,0,0,0,0,0,0,0,0,0,4,0,0,0,4,0
+38,Barbed Devil,Medium,Fiend (devil),lawful evil,15,110,16,3,17,3,18,4,12,1,14,2,14,2,"Darkvision 120 Ft., passive Perception 18","Infernal, Telepathy 120 Ft.",5,6,0,7,0,5,5,30,0,0,0,0,0,0,8,0,0,5,5,0,0,0,0,0
+39,Basilisk,Medium,Monstrosity,unaligned,15,52,16,3,8,-1,15,2,2,-4,8,-1,7,-2,,,3,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+40,Bat,Tiny,Beast,unaligned,12,1,2,-4,15,2,8,-1,2,-4,12,1,4,-3,,,0,0,0,0,0,0,0,5,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,Bearded Devil,Medium,Fiend (devil),lawful evil,13,52,16,3,15,2,15,2,9,-1,11,0,11,0,"Darkvision 120 Ft., passive Perception 10","Infernal, Telepathy 120 Ft.",3,5,0,4,0,2,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42,Behir,Huge,Monstrosity,neutral evil,17,168,23,6,16,3,18,4,7,-2,14,2,12,1,"Darkvision 90 Ft., passive Perception 16",Draconic,11,0,0,0,0,0,0,50,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,Berserker,Medium,Humanoid (any race),any chaotic alignment,13,67,16,3,12,1,17,3,9,-1,11,0,9,-1,,Any One Language (Usually Common),2,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+44,Black Bear,Medium,Beast,unaligned,11,19,15,2,10,0,14,2,2,-4,12,1,7,-2,,,1/2,0,0,0,0,0,0,40,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0
+45,Black Dragon Wyrmling,Medium,Dragon,chaotic evil,17,33,15,2,14,2,13,1,10,0,11,0,13,1,"Blindsight 10 Ft., Darkvision 60 Ft., passive Perception 14",Draconic,2,0,4,3,0,2,3,30,30,60,0,0,0,0,4,4,0,0,0,0,0,0,0,0
+46,Black Pudding,Large,Ooze,unaligned,7,85,16,3,5,-3,16,3,1,-5,6,-2,1,-5,"Blindsight 60 Ft. (Blind Beyond This Radius), passive Perception 8",,4,0,0,0,0,0,0,20,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0
+47,Blink Dog,Medium,Fey,lawful good,13,22,12,1,17,3,12,1,10,0,13,1,11,0,passive Perception 10,"Blink Dog, Understands Sylvan But Can't Speak It",1/4,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+48,Blood Hawk,Small,Beast,unaligned,12,7,6,-2,14,2,10,0,3,-4,14,2,5,-3,passive Perception 14,,1/8,0,0,0,0,0,0,10,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+49,Blue Dragon Wyrmling,Medium,Dragon,lawful evil,17,52,17,3,10,0,15,2,12,1,11,0,15,2,"Blindsight 10 Ft., Darkvision 60 Ft., passive Perception 14",Draconic,3,0,2,4,0,2,4,30,0,60,0,15,0,0,4,2,0,0,0,0,0,0,0,0
+50,Boar,Medium,Beast,unaligned,11,11,13,1,11,0,12,1,2,-4,9,-1,5,-3,,,1/4,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+51,Bone Devil,Large,Fiend (devil),lawful evil,19,142,18,4,16,3,18,4,13,1,14,2,16,3,"Darkvision 120 Ft., passive Perception 12","Infernal, Telepathy 120 Ft.",9,0,0,0,5,6,7,40,0,40,0,0,0,0,0,0,0,6,7,0,0,0,0,0
+52,Brass Dragon Wyrmling,Medium,Dragon,chaotic good,16,16,15,2,10,0,13,1,10,0,11,0,13,1,"Blindsight 10 Ft., Darkvision 60 Ft., passive Perception 14",Draconic,1,0,2,3,0,2,3,30,0,60,0,15,0,0,4,2,0,0,0,0,0,0,0,0
+53,Bronze Dragon Wyrmling,Medium,Dragon,lawful good,17,32,17,3,10,0,15,2,12,1,11,0,15,2,"Blindsight 10 Ft., Darkvision 60 Ft., passive Perception 14",Draconic,2,0,2,4,0,2,4,30,30,60,0,0,0,0,4,2,0,0,0,0,0,0,0,0
+54,Brown Bear,Large,Beast,unaligned,11,34,19,4,10,0,16,3,2,-4,13,1,7,-2,passive Perception 13,,1,0,0,0,0,0,0,40,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0
+55,Bugbear,Medium,Humanoid (goblinoid),chaotic evil,16,27,15,2,14,2,13,1,8,-1,11,0,9,-1,"Darkvision 60 Ft., passive Perception 10","Common, Goblin",1,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+56,Bulette,Large,Monstrosity,unaligned,17,94,19,4,11,0,21,5,2,-4,10,0,5,-3,"Darkvision 60 Ft., Tremorsense 60 Ft., passive Perception 16",,5,0,0,0,0,0,0,40,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0
+57,Camel,Large,Beast,unaligned,9,15,16,3,8,-1,14,2,2,-4,8,-1,5,-3,,,1/8,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+58,Cat,Tiny,Beast,unaligned,12,2,3,-4,15,2,10,0,3,-4,12,1,7,-2,passive Perception 13,,0,0,0,0,0,0,0,40,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0
+59,Centaur,Large,Monstrosity,neutral good,12,45,18,4,14,2,14,2,9,-1,13,1,11,0,passive Perception 13,"Elvish, Sylvan",2,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+60,Chain Devil,Medium,Fiend (devil),lawful evil,16,85,18,4,15,2,18,4,11,0,12,1,14,2,"Darkvision 120 Ft., passive Perception 8","Infernal, Telepathy 120 Ft.",8,0,0,7,0,4,5,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+61,Chimera,Large,Monstrosity,chaotic evil,14,114,19,4,11,0,19,4,3,-4,14,2,10,0,"Darkvision 60 Ft., passive Perception 18",Understands Draconic But Can't Speak,6,0,0,0,0,0,0,30,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+62,Chuul,Large,Aberration,chaotic evil,16,93,19,4,10,0,16,3,5,-3,11,0,5,-3,"Darkvision 60 Ft., passive Perception 14",Understands Deep Speech But Can't Speak,4,0,0,0,0,0,0,30,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+63,Clay Golem,Large,Construct,unaligned,14,133,20,5,9,-1,18,4,3,-4,8,-1,1,-5,"Darkvision 60 Ft., passive Perception 9",Understands The Languages Of Its Creator But Can't Speak,9,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64,Cloaker,Large,Aberration,chaotic neutral,14,78,17,3,15,2,12,1,13,1,12,1,14,2,"Darkvision 60 Ft., passive Perception 11","Deep Speech, Undercommon",8,0,0,0,0,0,0,10,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+65,Cloud Giant,Huge,Giant,neutral good (50%) or neutral evil (50%),14,200,27,8,10,0,22,6,12,1,16,3,16,3,passive Perception 17,"Common, Giant",9,0,0,10,0,7,7,40,0,0,0,0,0,0,7,0,0,7,0,0,0,0,0,0
+66,Cockatrice,Small,Monstrosity,unaligned,11,27,6,-2,12,1,12,1,2,-4,13,1,5,-3,,,1/2,0,0,0,0,0,0,20,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+67,Commoner,Medium,Humanoid (any race),any alignment,10,4,10,0,10,0,10,0,10,0,10,0,10,0,,Any One Language (Usually Common),0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+68,Constrictor Snake,Large,Beast,unaligned,12,13,15,2,14,2,12,1,1,-5,10,0,3,-4,,,1/4,0,0,0,0,0,0,30,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+69,Copper Dragon Wyrmling,Medium,Dragon,chaotic good,16,22,15,2,12,1,13,1,14,2,11,0,13,1,"Blindsight 10 Ft., Darkvision 60 Ft., passive Perception 14",Draconic,1,0,3,3,0,2,3,30,0,60,30,0,0,0,4,3,0,0,0,0,0,0,0,0
+70,Couatl,Medium,Celestial,lawful good,19,97,16,3,20,5,17,3,18,4,20,5,18,4,"Truesight 120 Ft., passive Perception 15","All, Telepathy 120 Ft.",4,0,0,5,0,7,6,30,0,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+71,Crab,Tiny,Beast,unaligned,11,2,2,-4,11,0,10,0,1,-5,8,-1,2,-4,"Blindsight 30 Ft., passive Perception 9",,0,0,0,0,0,0,0,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+72,Crocodile,Large,Beast,unaligned,12,19,15,2,10,0,13,1,2,-4,10,0,5,-3,passive Perception 10,,1/2,0,0,0,0,0,0,20,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+73,Cult Fanatic,Medium,Humanoid (any race),any non-good alignment,13,33,11,0,14,2,12,1,10,0,13,1,14,2,passive Perception 11,Any One Language (Usually Common),2,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+74,Cultist,Medium,Humanoid (any race),any non-good alignment,12,9,11,0,12,1,10,0,10,0,11,0,10,0,passive Perception 10,Any One Language (Usually Common),1/8,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+75,Darkmantle,Small,Monstrosity,unaligned,11,22,16,3,12,1,13,1,2,-4,10,0,5,-3,"Blindsight 60 Ft., passive Perception 10",,1/2,0,0,0,0,0,0,10,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+76,Death Dog,Medium,Monstrosity,neutral evil,12,39,15,2,14,2,14,2,3,-4,13,1,6,-2,"Darkvision 120 Ft., passive Perception 15",,1,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+77,Deep Gnome (Svirfneblin),Small,Humanoid (gnome),neutral good,15,16,15,2,14,2,14,2,12,1,10,0,9,-1,"darkvision 120 ft., passive Perception 12","Gnomish, Terran, Undercommon",1/2,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+78,Deer,Medium,Beast,unaligned,13,4,11,0,16,3,11,0,2,-4,14,2,5,-3,,,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+79,Deva,Medium,Celestial,lawful good,17,136,18,4,18,4,18,4,17,3,20,5,20,5,"Darkvision 120 Ft., passive Perception 19","All, Telepathy 120 Ft.",10,0,0,0,0,9,9,30,0,90,0,0,0,0,9,0,0,9,0,0,0,0,0,0
+80,Dire Wolf,Large,Beast,unaligned,14,37,17,3,15,2,15,2,3,-4,12,1,7,-2,passive Perception 13,,1,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+81,Diseased Giant Rat,Small,Beast,unaligned,12,7,7,-2,15,2,11,0,2,-4,10,0,4,-3,,,1/8,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+82,Djinni,Large,Elemental,chaotic good,17,161,21,5,15,2,22,6,15,2,16,3,20,5,"Darkvision 120 Ft., passive Perception 13",Auran,11,0,6,0,0,7,9,30,0,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+83,Doppelganger,Medium,Monstrosity (shapechanger),unaligned,14,52,11,0,18,4,14,2,11,0,12,1,14,2,"Darkvision 60 Ft., passive Perception 11",Common,3,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+84,Draft Horse,Large,Beast,unaligned,10,19,18,4,10,0,12,1,2,-4,11,0,7,-2,,,1/4,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+85,Dragon Turtle,Gargantuan,Dragon,neutral,20,341,25,7,10,0,20,5,10,0,12,1,12,1,"Darkvision 120 Ft., passive Perception 11","Aquan, Draconic",17,0,6,11,0,7,0,20,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+86,Dretch,Small,Fiend (demon),chaotic evil,11,18,11,0,11,0,12,1,5,-3,8,-1,3,-4,"Darkvision 60 Ft., passive Perception 9","Abyssal, Telepathy 60 Ft. (Works Only With Creatures That Understand Abyssal)",1/4,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+87,Drider,Large,Monstrosity,chaotic evil,19,123,16,3,16,3,18,4,13,1,14,2,12,1,"Darkvision 120 Ft., passive Perception 15","Elvish, Undercommon",6,0,0,0,0,0,0,30,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0
+88,Drow,Medium,Humanoid (elf),neutral evil,15,13,10,0,14,2,10,0,11,0,11,0,12,1,"Darkvision 120 Ft., passive Perception 12","Elvish, Undercommon",1/4,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+89,Druid,Medium,Humanoid (any race),any alignment,11,27,10,0,12,1,13,1,12,1,15,2,11,0,passive Perception 14,Druidic Plus Any Two Languages,2,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+90,Dryad,Medium,Fey,neutral,11,22,10,0,12,1,11,0,14,2,15,2,18,4,"Darkvision 60 Ft., passive Perception 14","Elvish, Sylvan",1,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+91,Duergar,Medium,Humanoid (dwarf),lawful evil,16,26,14,2,11,0,14,2,11,0,10,0,9,-1,"Darkvision 120 Ft., passive Perception 10","Dwarvish, Undercommon",1,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+92,Dust Mephit,Small,Elemental,neutral evil,12,17,5,-3,14,2,10,0,9,-1,11,0,10,0,"Darkvision 60 Ft., passive Perception 12","Auran, Terran",1/2,0,0,0,0,0,0,30,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+93,Eagle,Small,Beast,unaligned,12,3,6,-2,15,2,10,0,2,-4,14,2,7,-2,passive Perception 14,,0,0,0,0,0,0,0,10,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+94,Earth Elemental,Large,Elemental,neutral,17,126,20,5,8,-1,20,5,5,-3,10,0,5,-3,"Darkvision 60 Ft., Tremorsense 60 Ft., passive Perception 10",Terran,5,0,0,0,0,0,0,30,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0
+95,Efreeti,Large,Elemental,lawful evil,17,200,22,6,12,1,24,7,16,3,15,2,16,3,"Darkvision 120 Ft., passive Perception 12",Ignan,11,0,0,0,7,6,7,40,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+96,Elephant,Huge,Beast,unaligned,12,76,22,6,9,-1,17,3,3,-4,11,0,6,-2,,,4,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+97,Elk,Large,Beast,unaligned,10,13,16,3,10,0,12,1,2,-4,10,0,6,-2,,,1/4,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+98,Erinyes,Medium,Fiend (devil),lawful evil,18,153,18,4,16,3,18,4,14,2,14,2,18,4,"Truesight 120 Ft., passive Perception 12","Infernal, Telepathy 120 Ft.",12,0,7,8,0,6,8,30,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+99,Ettercap,Medium,Monstrosity,neutral evil,13,44,14,2,15,2,13,1,7,-2,12,1,8,-1,"Darkvision 60 Ft., passive Perception 13",,2,0,0,0,0,0,0,30,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0
+100,Ettin,Large,Giant,chaotic evil,12,85,21,5,8,-1,17,3,6,-2,10,0,8,-1,"Darkvision 60 Ft., passive Perception 14","Giant, Orc",4,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+101,Fire Elemental,Large,Elemental,neutral,13,102,10,0,17,3,16,3,6,-2,10,0,7,-2,"Darkvision 60 Ft., passive Perception 10",Ignan,5,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+102,Fire Giant,Huge,Giant,lawful evil,18,162,25,7,9,-1,23,6,10,0,14,2,13,1,passive Perception 16,Giant,9,0,3,10,0,0,5,30,0,0,0,0,0,0,6,0,0,0,0,0,0,0,11,0
+103,Flesh Golem,Medium,Construct,neutral,9,93,19,4,9,-1,18,4,6,-2,10,0,5,-3,"Darkvision 60 Ft., passive Perception 10",Understands The Languages Of Its Creator But Can't Speak,5,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104,Flying Snake,Tiny,Beast,unaligned,14,5,4,-3,18,4,11,0,2,-4,12,1,5,-3,,,1/8,0,0,0,0,0,0,30,30,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+105,Flying Sword,Small,Construct,unaligned,17,17,12,1,15,2,11,0,1,-5,5,-3,1,-5,"Blindsight 60 Ft. (Blind Beyond This Radius), passive Perception 7",,1/4,0,4,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+106,Frog,Tiny,Beast,unaligned,11,1,1,-5,13,1,8,-1,1,-5,8,-1,3,-4,"Darkvision 30 Ft., passive Perception 11",,0,0,0,0,0,0,0,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+107,Frost Giant,Huge,Giant,neutral evil,15,138,23,6,9,-1,21,5,9,-1,10,0,12,1,passive Perception 13,Giant,8,0,0,8,0,3,4,40,0,0,0,0,0,0,3,0,0,0,0,0,0,0,9,0
+108,Gargoyle,Medium,Elemental,chaotic evil,15,52,15,2,11,0,16,3,6,-2,11,0,7,-2,"Darkvision 60 Ft., passive Perception 10",Terran,2,0,0,0,0,0,0,30,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+109,Gelatinous Cube,Large,Ooze,unaligned,6,84,14,2,3,-4,20,5,1,-5,6,-2,1,-5,"Blindsight 60 Ft. (Blind Beyond This Radius), passive Perception 8",,2,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+110,Ghast,Medium,Undead,chaotic evil,13,36,16,3,17,3,10,0,11,0,10,0,8,-1,"Darkvision 60 Ft., passive Perception 10",Common,2,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+111,Ghost,Medium,Undead,any alignment,11,45,7,-2,13,1,10,0,10,0,12,1,17,3,"Darkvision 60 Ft., passive Perception 11",Any Languages It Knew In Life,4,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+112,Ghoul,Medium,Undead,chaotic evil,12,22,13,1,15,2,10,0,7,-2,10,0,6,-2,"Darkvision 60 Ft., passive Perception 10",Common,1,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+113,Giant Ape,Huge,Beast,unaligned,12,157,23,6,14,2,18,4,7,-2,12,1,7,-2,passive Perception 14,,7,0,0,0,0,0,0,40,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0
+114,Giant Badger,Medium,Beast,unaligned,10,13,13,1,10,0,15,2,2,-4,12,1,5,-3,,,1/4,0,0,0,0,0,0,30,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0
+115,Giant Bat,Large,Beast,unaligned,13,22,15,2,16,3,11,0,2,-4,12,1,6,-2,,,1/4,0,0,0,0,0,0,10,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+116,Giant Boar,Large,Beast,unaligned,12,42,17,3,10,0,16,3,2,-4,7,-2,5,-3,,,2,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+117,Giant Centipede,Small,Beast,unaligned,13,4,5,-3,14,2,12,1,1,-5,7,-2,3,-4,,,1/4,0,0,0,0,0,0,30,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0
+118,Giant Constrictor Snake,Huge,Beast,unaligned,12,60,19,4,14,2,12,1,1,-5,10,0,3,-4,"Blindsight 10 Ft., passive Perception 12",,2,0,0,0,0,0,0,30,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+119,Giant Crab,Medium,Beast,unaligned,15,13,13,1,15,2,11,0,1,-5,9,-1,3,-4,"Blindsight 30 Ft., passive Perception 9",,1/8,0,0,0,0,0,0,30,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+120,Giant Crocodile,Huge,Beast,unaligned,14,85,21,5,9,-1,17,3,2,-4,10,0,7,-2,passive Perception 10,,5,0,0,0,0,0,0,30,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+121,Giant Eagle,Large,Beast,neutral good,13,26,16,3,17,3,13,1,8,-1,14,2,10,0,passive Perception 14,"Giant Eagle, Understands Common And Auran But Can't Speak",1,0,0,0,0,0,0,10,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+122,Giant Elk,Huge,Beast,unaligned,14,42,19,4,16,3,14,2,7,-2,14,2,10,0,passive Perception 14,"Giant Elk, Understands Common, Elvish, And Sylvan But Can't Speak",2,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+123,Giant Fire Beetle,Small,Beast,unaligned,13,4,8,-1,10,0,12,1,1,-5,7,-2,3,-4,,,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+124,Giant Frog,Medium,Beast,unaligned,11,18,12,1,13,1,11,0,2,-4,10,0,3,-4,"Darkvision 30 Ft., passive Perception 12",,1/4,0,0,0,0,0,0,30,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+125,Giant Goat,Large,Beast,unaligned,11,19,17,3,11,0,12,1,3,-4,12,1,6,-2,,,1/2,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+126,Giant Hyena,Large,Beast,unaligned,12,45,16,3,14,2,14,2,2,-4,12,1,7,-2,passive Perception 13,,1,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+127,Giant Lizard,Large,Beast,unaligned,12,19,15,2,12,1,13,1,2,-4,10,0,5,-3,,,1/4,0,0,0,0,0,0,30,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0
+128,Giant Octopus,Large,Beast,unaligned,11,52,17,3,13,1,13,1,4,-3,10,0,4,-3,"Darkvision 60 Ft., passive Perception 14",,1,0,0,0,0,0,0,10,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+129,Giant Owl,Large,Beast,neutral,12,19,13,1,15,2,12,1,8,-1,13,1,10,0,"Darkvision 120 Ft., passive Perception 15","Giant Owl, Understands Common, Elvish, And Sylvan But Can't Speak",1/4,0,0,0,0,0,0,5,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+130,Giant Poisonous Snake,Medium,Beast,unaligned,14,11,10,0,18,4,13,1,2,-4,10,0,3,-4,"Blindsight 10 Ft., passive Perception 12",,1/4,0,0,0,0,0,0,30,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+131,Giant Rat,Small,Beast,unaligned,12,7,7,-2,15,2,11,0,2,-4,10,0,4,-3,,,1/8,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+132,Giant Scorpion,Large,Beast,unaligned,15,52,15,2,13,1,15,2,1,-5,9,-1,3,-4,,,3,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+133,Giant Sea Horse,Large,Beast,unaligned,13,16,12,1,15,2,11,0,2,-4,12,1,5,-3,,,1/2,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+134,Giant Shark,Huge,Beast,unaligned,13,126,23,6,11,0,21,5,1,-5,10,0,5,-3,"Blindsight 60 Ft., passive Perception 13",,5,0,0,0,0,0,0,40,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+135,Giant Spider,Large,Beast,unaligned,14,26,14,2,16,3,12,1,2,-4,11,0,4,-3,"Blindsight 10 Ft., Darkvision 60 Ft., passive Perception 10",,1,0,0,0,0,0,0,30,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0
+136,Giant Toad,Large,Beast,unaligned,11,39,15,2,13,1,13,1,2,-4,10,0,3,-4,,,1,0,0,0,0,0,0,20,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+137,Giant Vulture,Large,Beast,neutral evil,10,22,15,2,10,0,15,2,6,-2,12,1,7,-2,passive Perception 13,Understands Common But Can't Speak,1,0,0,0,0,0,0,10,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+138,Giant Wasp,Medium,Beast,unaligned,12,13,10,0,14,2,10,0,1,-5,10,0,3,-4,,,1/2,0,0,0,0,0,0,10,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+139,Giant Weasel,Medium,Beast,unaligned,13,9,11,0,16,3,10,0,4,-3,12,1,5,-3,"Darkvision 60 Ft., passive Perception 13",,1/8,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+140,Giant Wolf Spider,Medium,Beast,unaligned,13,11,12,1,16,3,13,1,3,-4,12,1,4,-3,"Blindsight 10 Ft., Darkvision 60 Ft., passive Perception 13",,1/4,0,0,0,0,0,0,40,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0
+141,Gibbering Mouther,Medium,Aberration,neutral,9,67,10,0,8,-1,16,3,3,-4,10,0,6,-2,"Darkvision 60 Ft., passive Perception 10",,2,0,0,0,0,0,0,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+142,Glabrezu,Large,Fiend (demon),chaotic evil,17,157,20,5,15,2,21,5,19,4,17,3,16,3,"Truesight 120 Ft., passive Perception 13","Abyssal, Telepathy 120 Ft.",9,9,0,9,0,7,7,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143,Gladiator,Medium,Humanoid (any race),any alignment,16,112,18,4,15,2,16,3,10,0,12,1,15,2,passive Perception 11,Any One Language (Usually Common),5,7,5,6,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,5
+144,Gnoll,Medium,Humanoid (gnoll),chaotic evil,15,22,14,2,12,1,11,0,6,-2,10,0,7,-2,,Gnoll,1/2,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+145,Goat,Medium,Beast,unaligned,10,4,12,1,10,0,11,0,2,-4,10,0,5,-3,,,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+146,Goblin,Small,Humanoid (goblinoid),neutral evil,15,7,8,-1,14,2,10,0,10,0,8,-1,8,-1,"Darkvision 60 Ft., passive Perception 9","Common, Goblin",1/4,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+147,Gold Dragon Wyrmling,Medium,Dragon,lawful good,17,60,19,4,14,2,17,3,14,2,11,0,16,3,"Blindsight 10 Ft., Darkvision 60 Ft., passive Perception 14",Draconic,3,0,4,5,0,2,5,30,30,60,0,0,0,0,4,4,0,0,0,0,0,0,0,0
+148,Gorgon,Large,Monstrosity,unaligned,19,114,20,5,11,0,18,4,2,-4,12,1,7,-2,"Darkvision 60 Ft., passive Perception 14",,5,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+149,Gray Ooze,Medium,Ooze,unaligned,8,22,12,1,6,-2,16,3,1,-5,6,-2,2,-4,"Blindsight 60 Ft. (Blind Beyond This Radius), passive Perception 8",,1/2,0,0,0,0,0,0,10,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0
+150,Green Dragon Wyrmling,Medium,Dragon,lawful evil,17,38,15,2,12,1,13,1,14,2,11,0,13,1,"Blindsight 10 Ft., Darkvision 60 Ft., passive Perception 14",Draconic,2,0,3,3,0,2,3,30,30,60,0,0,0,0,4,3,0,0,0,0,0,0,0,0
+151,Green Hag,Medium,Fey,neutral evil,17,82,18,4,12,1,16,3,13,1,14,2,14,2,"Darkvision 60 Ft., passive Perception 14","Common, Draconic, Sylvan",3,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+152,Grick,Medium,Monstrosity,neutral,14,27,14,2,14,2,11,0,3,-4,14,2,5,-3,"Darkvision 60 Ft., passive Perception 12",,2,0,0,0,0,0,0,30,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0
+153,Griffon,Large,Monstrosity,unaligned,12,59,18,4,15,2,16,3,2,-4,13,1,8,-1,"Darkvision 60 Ft., passive Perception 15",,2,0,0,0,0,0,0,30,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+154,Grimlock,Medium,Humanoid (grimlock),neutral evil,11,11,16,3,12,1,12,1,9,-1,8,-1,6,-2,"Blindsight 30 Ft. Or 10 Ft. While Deafened (Blind Beyond This Radius), passive Perception 13",Undercommon,1/4,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+155,Guard,Medium,Humanoid (any race),any alignment,16,11,13,1,12,1,12,1,10,0,11,0,10,0,passive Perception 12,Any One Language (Usually Common),1/8,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+156,Guardian Naga,Large,Monstrosity,lawful good,18,127,19,4,18,4,16,3,16,3,19,4,18,4,"Darkvision 60 Ft., passive Perception 14","Celestial, Common",10,0,8,7,7,8,8,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+157,Gynosphinx,Large,Monstrosity,lawful neutral,17,136,18,4,15,2,16,3,18,4,18,4,18,4,"Truesight 120 Ft., passive Perception 18","Common, Sphinx",11,0,0,0,0,0,0,40,0,60,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+158,Half-Red Dragon Veteran,Medium,Humanoid (human),any,18,65,16,3,13,1,14,2,10,0,11,0,10,0,"Blindsight 10 ft., Darkvision 60 ft., passive Perception 12","Common, Draconic",5,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+159,Harpy,Medium,Monstrosity,chaotic evil,11,38,12,1,13,1,12,1,7,-2,10,0,13,1,,Common,1,0,0,0,0,0,0,20,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+160,Hawk,Tiny,Beast,unaligned,13,1,5,-3,16,3,8,-1,2,-4,14,2,6,-2,passive Perception 14,,0,0,0,0,0,0,0,10,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+161,Hell Hound,Medium,Fiend,lawful evil,15,45,17,3,12,1,14,2,6,-2,13,1,6,-2,"Darkvision 60 Ft., passive Perception 15",Understands Infernal But Can't Speak It,3,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+162,Hezrou,Large,Fiend (demon),chaotic evil,16,136,19,4,17,3,20,5,5,-3,12,1,13,1,"Darkvision 120 Ft., passive Perception 11","Abyssal, Telepathy 120 Ft.",8,7,0,8,0,4,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+163,Hill Giant,Huge,Giant,chaotic evil,13,105,21,5,8,-1,19,4,5,-3,9,-1,6,-2,passive Perception 12,Giant,5,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+164,Hippogriff,Large,Monstrosity,unaligned,11,19,17,3,13,1,13,1,2,-4,12,1,8,-1,passive Perception 15,,1,0,0,0,0,0,0,40,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+165,Hobgoblin,Medium,Humanoid (goblinoid),lawful evil,18,11,13,1,12,1,12,1,10,0,10,0,9,-1,,"Common, Goblin",1/2,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+166,Homunculus,Tiny,Construct,neutral,13,5,4,-3,15,2,11,0,10,0,10,0,7,-2,"Darkvision 60 Ft., passive Perception 10",Understands The Languages Of Its Creator But Can't Speak,0,0,0,0,0,0,0,20,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+167,Horned Devil,Large,Fiend (devil),lawful evil,18,178,22,6,17,3,21,5,12,1,16,3,17,3,"Darkvision 120 Ft., passive Perception 13","Infernal, Telepathy 120 Ft.",11,10,7,0,0,7,7,20,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+168,Hunter Shark,Large,Beast,unaligned,12,45,18,4,13,1,15,2,1,-5,10,0,4,-3,"Blindsight 30 Ft., passive Perception 12",,2,0,0,0,0,0,0,60,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+169,Hydra,Huge,Monstrosity,unaligned,15,172,20,5,12,1,20,5,2,-4,10,0,7,-2,"Darkvision 60 Ft., passive Perception 16",,8,0,0,0,0,0,0,30,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+170,Hyena,Medium,Beast,unaligned,11,5,11,0,13,1,12,1,2,-4,12,1,5,-3,passive Perception 13,,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+171,Ice Devil,Large,Fiend (devil),lawful evil,18,180,21,5,14,2,18,4,18,4,15,2,18,4,"Blindsight 60 Ft., Darkvision 120 Ft., passive Perception 12","Infernal, Telepathy 120 Ft.",14,0,7,9,0,7,9,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+172,Ice Mephit,Small,Elemental,neutral evil,11,21,7,-2,13,1,10,0,9,-1,11,0,12,1,"Darkvision 60 Ft., passive Perception 12","Aquan, Auran",1/2,0,0,0,0,0,0,30,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+173,Imp,Tiny,Fiend (devil,shapechanger),13,10,6,-2,17,3,13,1,11,0,12,1,14,2,"Darkvision 120 Ft., passive Perception 11","Infernal, Common",1,0,0,0,0,0,0,20,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+174,Incubus,Medium,Fiend (shapechanger),neutral evil,15,66,8,-1,17,3,13,1,15,2,12,1,20,5,"Darkvision 60 ft., passive Perception 15","Abyssal, Common, Infernal, Telepathy 60 ft.",4,0,0,0,0,0,0,30,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+175,Invisible Stalker,Medium,Elemental,neutral,14,104,16,3,19,4,14,2,10,0,15,2,11,0,"Darkvision 60 Ft., passive Perception 18","Auran, Understands Common But Doesn't Speak It",6,0,0,0,0,0,0,50,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+176,Iron Golem,Large,Construct,unaligned,20,210,24,7,9,-1,20,5,3,-4,11,0,1,-5,"Darkvision 120 Ft., passive Perception 10",Understands The Languages Of Its Creator But Can't Speak,16,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+177,Jackal,Small,Beast,unaligned,12,3,8,-1,15,2,11,0,3,-4,12,1,6,-2,passive Perception 13,,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+178,Killer Whale,Huge,Beast,unaligned,12,90,19,4,10,0,13,1,3,-4,12,1,7,-2,"Blindsight 120 Ft., passive Perception 13",,3,0,0,0,0,0,0,40,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+179,Knight,Medium,Humanoid (any race),any alignment,18,52,16,3,11,0,14,2,11,0,11,0,15,2,passive Perception 10,Any One Language (Usually Common),3,0,0,4,0,2,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+180,Kobold,Small,Humanoid (kobold),lawful evil,12,5,7,-2,15,2,9,-1,8,-1,7,-2,8,-1,,"Common, Draconic",1/8,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+181,Kraken,Gargantuan,Monstrosity (titan),chaotic evil,18,472,30,1,11,0,25,7,22,6,18,4,20,5,"Truesight 120 Ft., passive Perception 14","Understands Abyssal, Celestial, Infernal, And Primordial But Can't Speak, Telepathy 120 Ft.",23,17,7,14,13,11,0,20,60,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+182,Lamia,Large,Monstrosity,chaotic evil,13,97,16,3,13,1,15,2,14,2,15,2,16,3,"Darkvision 60 Ft., passive Perception 12","Abyssal, Common",4,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+183,Lemure,Medium,Fiend (devil),lawful evil,7,13,10,0,5,-3,11,0,1,-5,11,0,3,-4,"Darkvision 120 Ft., passive Perception 10",Understands Infernal But Can't Speak,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+184,Lich,Medium,Undead,any evil alignment,17,135,11,0,16,3,16,3,20,5,14,2,16,3,"Truesight 120 Ft., passive Perception 19",Common Plus Up To Five Other Languages,21,0,0,10,12,9,0,30,0,0,0,0,4,12,9,0,0,9,0,18,0,0,0,0
+185,Lion,Large,Beast,unaligned,12,26,17,3,15,2,13,1,3,-4,12,1,8,-1,passive Perception 13,,1,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+186,Lizard,Tiny,Beast,unaligned,10,2,2,-4,11,0,10,0,1,-5,8,-1,3,-4,,,0,0,0,0,0,0,0,20,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0
+187,Lizardfolk,Medium,Humanoid (lizardfolk),neutral,15,22,15,2,10,0,13,1,7,-2,12,1,7,-2,passive Perception 13,Draconic,1/2,0,0,0,0,0,0,30,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+188,Mage,Medium,Humanoid (any race),any alignment,12,40,9,-1,14,2,11,0,17,3,12,1,11,0,passive Perception 11,Any Four Languages,6,0,0,0,6,4,0,30,0,0,0,0,0,6,0,0,0,0,0,6,0,0,0,0
+189,Magma Mephit,Small,Elemental,neutral evil,11,22,8,-1,12,1,12,1,7,-2,10,0,10,0,"Darkvision 60 Ft., passive Perception 10","Ignan, Terran",1/2,0,0,0,0,0,0,30,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+190,Magmin,Small,Elemental,chaotic neutral,14,9,7,-2,15,2,12,1,8,-1,11,0,10,0,"Darkvision 60 Ft., passive Perception 10",Ignan,1/2,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+191,Mammoth,Huge,Beast,unaligned,13,126,24,7,9,-1,21,5,3,-4,11,0,6,-2,,,6,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+192,Manticore,Large,Monstrosity,lawful evil,14,68,17,3,16,3,17,3,7,-2,12,1,8,-1,,Common,3,0,0,0,0,0,0,30,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193,Marilith,Large,Fiend (demon),chaotic evil,18,189,18,4,20,5,20,5,18,4,16,3,20,5,"Truesight 120 Ft., passive Perception 13","Abyssal, Telepathy 120 Ft.",16,9,0,10,0,8,10,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+194,Mastiff,Medium,Beast,unaligned,12,5,13,1,14,2,12,1,3,-4,12,1,7,-2,passive Perception 13,,1/8,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+195,Medusa,Medium,Monstrosity,lawful evil,15,127,10,0,15,2,16,3,12,1,13,1,15,2,"Darkvision 60 Ft., passive Perception 14",Common,6,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+196,Merfolk,Medium,Humanoid (merfolk),neutral,11,11,10,0,13,1,12,1,11,0,11,0,12,1,passive Perception 12,"Aquan, Common",1/8,0,0,0,0,0,0,10,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+197,Merrow,Large,Monstrosity,chaotic evil,13,45,18,4,10,0,15,2,8,-1,10,0,9,-1,,"Abyssal, Aquan",2,0,0,0,0,0,0,10,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+198,Mimic,Medium,Monstrosity (shapechanger),neutral,12,58,17,3,12,1,15,2,5,-3,13,1,8,-1,"Darkvision 60 Ft., passive Perception 11",,2,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+199,Minotaur,Large,Monstrosity,chaotic evil,14,76,18,4,11,0,16,3,6,-2,16,3,9,-1,"Darkvision 60 Ft., passive Perception 17",Abyssal,3,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+200,Minotaur Skeleton,Large,Undead,lawful evil,12,67,18,4,11,0,15,2,6,-2,8,-1,5,-3,"Darkvision 60 Ft., passive Perception 9",Understands Abyssal But Can't Speak,2,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+201,Mule,Medium,Beast,unaligned,10,11,14,2,10,0,13,1,2,-4,10,0,5,-3,,,1/8,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+202,Mummy,Medium,Undead,lawful evil,11,58,16,3,8,-1,15,2,6,-2,10,0,12,1,"Darkvision 60 Ft., passive Perception 10",The Languages It Knew In Life,3,0,0,0,0,2,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+203,Mummy Lord,Medium,Undead,lawful evil,17,97,18,4,10,0,17,3,11,0,18,4,16,3,"Darkvision 60 Ft., passive Perception 14",The Languages It Knew In Life,15,0,0,8,5,9,8,20,0,0,0,0,5,5,0,0,0,0,0,0,5,0,0,0
+204,Nalfeshnee,Large,Fiend (demon),chaotic evil,18,184,21,5,10,0,22,6,19,4,12,1,15,2,"Truesight 120 Ft., passive Perception 11","Abyssal, Telepathy 120 Ft.",13,0,0,11,9,6,7,20,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+205,Night Hag,Medium,Fiend,neutral evil,17,112,18,4,15,2,16,3,16,3,14,2,16,3,"Darkvision 120 Ft., passive Perception 16","Abyssal, Common, Infernal, Primordial",5,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+206,Nightmare,Large,Fiend,neutral evil,13,68,18,4,15,2,16,3,10,0,13,1,15,2,passive Perception 11,"Understands Abyssal, Common, And Infernal But Can't Speak",3,0,0,0,0,0,0,60,0,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+207,Noble,Medium,Humanoid (any race),any alignment,15,9,11,0,12,1,11,0,12,1,14,2,16,3,passive Perception 12,Any Two Languages,1/8,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+208,Ochre Jelly,Large,Ooze,unaligned,8,45,15,2,6,-2,14,2,2,-4,6,-2,1,-5,"Blindsight 60 Ft. (Blind Beyond This Radius), passive Perception 8",,2,0,0,0,0,0,0,10,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0
+209,Octopus,Small,Beast,unaligned,12,3,4,-3,15,2,11,0,3,-4,10,0,4,-3,"Darkvision 30 Ft., passive Perception 12",,0,0,0,0,0,0,0,5,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+210,Ogre,Large,Giant,chaotic evil,11,59,19,4,8,-1,16,3,5,-3,7,-2,7,-2,,"Common, Giant",2,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+211,Ogre Zombie,Large,Undead,neutral evil,8,85,19,4,6,-2,18,4,3,-4,6,-2,5,-3,"Darkvision 60 Ft., passive Perception 8",Understands Common And Giant But Can't Speak,2,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+212,Oni,Large,Giant,lawful evil,16,110,19,4,11,0,16,3,14,2,12,1,15,2,"Darkvision 60 Ft., passive Perception 14","Common, Giant",7,0,3,6,0,4,5,30,0,30,0,0,0,0,4,0,0,0,8,5,0,0,0,0
+213,Orc,Medium,Humanoid (orc),chaotic evil,13,15,16,3,12,1,16,3,7,-2,11,0,10,0,"Darkvision 60 Ft., passive Perception 10","Common, Orc",1/2,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+214,Otyugh,Large,Aberration,neutral,14,114,16,3,11,0,19,4,6,-2,13,1,6,-2,"Darkvision 120 Ft., passive Perception 11",Otyugh,5,0,0,7,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,Owl,Tiny,Beast,unaligned,11,1,3,-4,13,1,8,-1,2,-4,12,1,7,-2,"Darkvision 120 Ft., passive Perception 13",,0,0,0,0,0,0,0,5,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+216,Owlbear,Large,Monstrosity,unaligned,13,59,20,5,12,1,17,3,3,-4,12,1,7,-2,"Darkvision 60 Ft., passive Perception 13",,3,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+217,Panther,Medium,Beast,unaligned,12,13,14,2,15,2,10,0,3,-4,14,2,7,-2,passive Perception 14,,1/4,0,0,0,0,0,0,50,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0
+218,Pegasus,Large,Celestial,chaotic good,12,59,18,4,15,2,16,3,10,0,15,2,13,1,passive Perception 16,"Understands Celestial, Common, Elvish, And Sylvan But Can't Speak",2,0,4,0,0,4,3,60,0,90,0,0,0,0,6,0,0,0,0,0,0,0,0,0
+219,Phase Spider,Large,Monstrosity,unaligned,13,32,15,2,15,2,12,1,6,-2,10,0,6,-2,"Darkvision 60 Ft., passive Perception 10",,3,0,0,0,0,0,0,30,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0
+220,Pit Fiend,Large,Fiend (devil),lawful evil,19,300,26,8,14,2,24,7,22,6,18,4,24,7,"Truesight 120 Ft., passive Perception 14","Infernal, Telepathy 120 Ft.",20,0,8,13,0,10,0,30,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+221,Planetar,Large,Celestial,lawful good,19,200,24,7,20,5,24,7,19,4,22,6,25,7,"Truesight 120 Ft., passive Perception 21","All, Telepathy 120 Ft.",16,0,0,12,0,11,12,40,0,120,0,0,0,0,11,0,0,0,0,0,0,0,0,0
+222,Plesiosaurus,Large,Beast,unaligned,13,68,18,4,15,2,16,3,2,-4,12,1,5,-3,passive Perception 13,,2,0,0,0,0,0,0,20,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+223,Poisonous Snake,Tiny,Beast,unaligned,13,2,2,-4,16,3,11,0,1,-5,10,0,3,-4,,,1/8,0,0,0,0,0,0,30,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+224,Polar Bear,Large,Beast,unaligned,12,42,20,5,10,0,16,3,2,-4,13,1,7,-2,passive Perception 13,,2,0,0,0,0,0,0,40,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+225,Pony,Medium,Beast,unaligned,10,11,15,2,10,0,13,1,2,-4,11,0,7,-2,,,1/8,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+226,Priest,Medium,Humanoid (any race),any alignment,13,27,10,0,10,0,12,1,13,1,16,3,13,1,passive Perception 13,Any Two Languages,2,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+227,Pseudodragon,Tiny,Dragon,neutral good,13,7,6,-2,15,2,13,1,10,0,12,1,10,0,"Blindsight 10 Ft., Darkvision 60 Ft., passive Perception 13",Understands Common And Draconic But Can't Speak,1/4,0,0,0,0,0,0,15,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+228,Purple Worm,Gargantuan,Monstrosity,unaligned,18,247,28,9,7,-2,22,6,1,-5,8,-1,4,-3,"Blindsight 30 Ft., Tremorsense 60 Ft., passive Perception 9",,15,0,0,11,0,4,0,50,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0
+229,Quasit,Tiny,Fiend (demon),chaotic evil,13,7,5,-3,17,3,10,0,7,-2,10,0,10,0,"Darkvision 120 Ft., passive Perception 10","Abyssal, Common",1,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+230,Quipper,Tiny,Beast,unaligned,13,1,2,-4,16,3,9,-1,1,-5,7,-2,2,-4,,,0,0,0,0,0,0,0,40,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+231,Rakshasa,Medium,Fiend,lawful evil,16,110,14,2,17,3,18,4,13,1,16,3,20,5,"Darkvision 60 Ft., passive Perception 13","Common, Infernal",13,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+232,Rat,Tiny,Beast,unaligned,10,1,2,-4,11,0,9,-1,2,-4,10,0,4,-3,,,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+233,Raven,Tiny,Beast,unaligned,12,1,2,-4,14,2,8,-1,2,-4,12,1,6,-2,passive Perception 13,,0,0,0,0,0,0,0,10,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+234,Red Dragon Wyrmling,Medium,Dragon,chaotic evil,17,75,19,4,10,0,17,3,12,1,11,0,15,2,"Blindsight 10 Ft., Darkvision 60 Ft., passive Perception 14",Draconic,4,0,2,5,0,2,4,30,0,60,30,0,0,0,4,2,0,0,0,0,0,0,0,0
+235,Reef Shark,Medium,Beast,unaligned,12,22,14,2,13,1,13,1,1,-5,10,0,4,-3,"Blindsight 30 Ft., passive Perception 12",,1/2,0,0,0,0,0,0,30,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+236,Remorhaz,Huge,Monstrosity,unaligned,17,195,24,7,13,1,21,5,4,-3,10,0,5,-3,"Darkvision 60 Ft., Tremorsense 60 Ft., passive Perception 10",,11,0,0,0,0,0,0,30,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0
+237,Rhinoceros,Large,Beast,unaligned,11,45,21,5,8,-1,15,2,2,-4,12,1,6,-2,,,2,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+238,Riding Horse,Large,Beast,unaligned,10,13,16,3,10,0,12,1,2,-4,11,0,7,-2,,,1/4,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+239,Roc,Gargantuan,Monstrosity,unaligned,15,248,28,9,10,0,20,5,3,-4,10,0,9,-1,passive Perception 14,,11,0,4,9,0,4,3,20,0,120,0,0,0,0,4,0,0,0,0,0,0,0,0,0
+240,Roper,Large,Monstrosity,neutral evil,20,93,18,4,8,-1,17,3,7,-2,16,3,6,-2,"Darkvision 60 Ft., passive Perception 16",,5,0,0,0,0,0,0,10,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0
+241,Rug Of Smothering,Large,Construct,unaligned,12,33,17,3,14,2,10,0,1,-5,3,-4,1,-5,"Blindsight 60 Ft. (Blind Beyond This Radius), passive Perception 6",,2,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+242,Rust Monster,Medium,Monstrosity,unaligned,14,27,13,1,12,1,13,1,2,-4,13,1,6,-2,,,1/2,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+243,Saber-Toothed Tiger,Large,Beast,unaligned,12,52,18,4,14,2,15,2,3,-4,12,1,8,-1,passive Perception 13,,2,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+244,Sahuagin,Medium,Humanoid (sahuagin),lawful evil,12,22,13,1,11,0,12,1,12,1,13,1,9,-1,"Darkvision 120 Ft., passive Perception 15",Sahuagin,1/2,0,0,0,0,0,0,30,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+245,Salamander,Large,Elemental,neutral evil,15,90,18,4,14,2,15,2,11,0,10,0,12,1,"Darkvision 60 Ft., passive Perception 10",Ignan,5,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+246,Satyr,Medium,Fey,chaotic neutral,14,31,12,1,16,3,11,0,12,1,10,0,14,2,passive Perception 12,"Common, Elvish, Sylvan",1/2,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+247,Scorpion,Tiny,Beast,unaligned,11,1,2,-4,11,0,8,-1,1,-5,8,-1,2,-4,,,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+248,Scout,Medium,Humanoid (any race),any alignment,13,16,11,0,14,2,12,1,11,0,13,1,11,0,passive Perception 15,Any One Language (Usually Common),1/2,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+249,Sea Hag,Medium,Fey,chaotic evil,14,52,16,3,13,1,16,3,12,1,12,1,13,1,,"Aquan, Common, Giant",2,0,0,0,0,0,0,30,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+250,Sea Horse,Tiny,Beast,unaligned,11,1,1,-5,12,1,8,-1,1,-5,10,0,2,-4,,,0,0,0,0,0,0,0,40,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+251,Shadow,Medium,Undead,chaotic evil,12,16,6,-2,14,2,13,1,6,-2,10,0,8,-1,"Darkvision 60 Ft., passive Perception 10",,1/2,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+252,Shambling Mound,Large,Plant,unaligned,15,136,18,4,8,-1,16,3,5,-3,10,0,5,-3,"Blindsight 60 Ft. (Blind Beyond This Radius), passive Perception 10",,5,0,0,0,0,0,0,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+253,Shield Guardian,Large,Construct,unaligned,17,142,18,4,8,-1,18,4,7,-2,10,0,3,-4,"Blindsight 10 Ft., Darkvision 60 Ft., passive Perception 10",Understands Commands Given In Any Language But Can't Speak,7,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+254,Shrieker,Medium,Plant,unaligned,5,13,1,-5,1,-5,10,0,1,-5,3,-4,1,-5,"Blindsight 30 Ft. (Blind Beyond This Radius), passive Perception 6",,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+255,Silver Dragon Wyrmling,Medium,Dragon,lawful good,17,45,19,4,10,0,17,3,12,1,11,0,15,2,"Blindsight 10 Ft., Darkvision 60 Ft., passive Perception 14",Draconic,2,0,2,5,0,2,4,30,0,60,0,0,0,0,4,2,0,0,0,0,0,0,0,0
+256,Skeleton,Medium,Undead,lawful evil,13,13,10,0,14,2,15,2,6,-2,8,-1,5,-3,"Darkvision 60 Ft., passive Perception 9",Understands All Languages It Spoke In Life But Can't Speak,1/4,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+257,Solar,Large,Celestial,lawful good,21,243,26,8,22,6,26,8,25,7,25,7,30,1,"Truesight 120 Ft., passive Perception 24","All, Telepathy 120 Ft.",21,0,0,0,14,14,17,50,0,150,0,0,3,0,14,0,0,0,0,0,0,0,0,0
+258,Specter,Medium,Undead,chaotic evil,12,22,1,-5,14,2,11,0,10,0,10,0,11,0,"Darkvision 60 Ft., passive Perception 10",Understands All Languages It Knew In Life But Can't Speak,1,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+259,Spider,Tiny,Beast,unaligned,12,1,2,-4,14,2,8,-1,1,-5,10,0,2,-4,"Darkvision 30 Ft., passive Perception 12",,0,0,0,0,0,0,0,20,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0
+260,Spirit Naga,Large,Monstrosity,chaotic evil,15,75,18,4,17,3,14,2,16,3,15,2,16,3,"Darkvision 60 Ft., passive Perception 12","Abyssal, Common",8,0,6,5,0,5,6,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+261,Sprite,Tiny,Fey,neutral good,15,2,3,-4,18,4,10,0,14,2,13,1,11,0,passive Perception 13,"Common, Elvish, Sylvan",1/4,0,0,0,0,0,0,10,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+262,Spy,Medium,Humanoid (any race),any alignment,12,27,10,0,15,2,10,0,12,1,14,2,16,3,passive Perception 16,Any Two Languages,1,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,Steam Mephit,Small,Elemental,neutral evil,10,21,5,-3,11,0,10,0,11,0,10,0,12,1,"Darkvision 60 Ft., passive Perception 10","Aquan, Ignan",1/4,0,0,0,0,0,0,30,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+264,Stirge,Tiny,Beast,unaligned,14,2,4,-3,16,3,11,0,2,-4,8,-1,6,-2,,,1/8,0,0,0,0,0,0,10,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+265,Stone Giant,Huge,Giant,neutral,17,126,23,6,15,2,20,5,10,0,12,1,9,-1,"Darkvision 60 Ft., passive Perception 14",Giant,7,0,5,8,0,4,0,40,0,0,0,0,0,0,4,0,0,0,0,0,0,0,12,0
+266,Stone Golem,Large,Construct,unaligned,17,178,22,6,9,-1,20,5,3,-4,11,0,1,-5,"Darkvision 120 Ft., passive Perception 10",Understands The Languages Of Its Creator But Can't Speak,10,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+267,Storm Giant,Huge,Giant,chaotic good,16,230,29,9,14,2,20,5,16,3,18,4,18,4,passive Perception 19,"Common, Giant",13,14,0,10,0,9,9,50,50,0,0,0,0,8,9,0,0,0,0,8,0,0,14,0
+268,Succubus,Medium,Fiend (shapechanger),neutral evil,15,66,8,-1,17,3,13,1,15,2,12,1,20,5,"Darkvision 60 ft., passive Perception 15","Abyssal, Common, Infernal, Telepathy 60 ft.",4,0,0,0,0,0,0,30,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+269,Succubus (Incubus),Medium,Fiend (shapechanger),neutral evil,15,66,8,-1,17,3,13,1,15,2,12,1,20,5,"Darkvision 60 Ft., passive Perception 15","Abyssal, Common, Infernal, Telepathy 60 Ft.",4,0,0,0,0,0,0,30,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+270,Swarm Of Bats,Medium,Swarm of tiny beasts,unaligned,12,22,5,-3,15,2,10,0,2,-4,12,1,4,-3,"Blindsight 60 Ft., passive Perception 11",,1/4,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+271,Swarm Of Beetles,Medium,Swarm of tiny beasts,unaligned,12,22,3,-4,13,1,10,0,1,-5,7,-2,1,-5,"Blindsight 10 Ft., passive Perception 8",,1/2,0,0,0,0,0,0,20,0,0,20,5,0,0,0,0,0,0,0,0,0,0,0,0
+272,Swarm Of Centipedes,Medium,Swarm of tiny beasts,unaligned,12,22,3,-4,13,1,10,0,1,-5,7,-2,1,-5,"Blindsight 10 Ft., passive Perception 8",,1/2,0,0,0,0,0,0,20,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0
+273,Swarm Of Insects,Medium,Swarm of tiny beasts,unaligned,12,22,3,-4,13,1,10,0,1,-5,7,-2,1,-5,"Blindsight 10 Ft., passive Perception 8",,1/2,0,0,0,0,0,0,20,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0
+274,Swarm Of Poisonous Snakes,Medium,Swarm of tiny beasts,unaligned,14,36,8,-1,18,4,11,0,1,-5,10,0,3,-4,"Blindsight 10 Ft., passive Perception 10",,2,0,0,0,0,0,0,30,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+275,Swarm Of Quippers,Medium,Swarm of tiny beasts,unaligned,13,28,13,1,16,3,9,-1,1,-5,7,-2,2,-4,"Darkvision 60 Ft., passive Perception 8",,1,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+276,Swarm Of Rats,Medium,Swarm of tiny beasts,unaligned,10,24,9,-1,11,0,9,-1,2,-4,10,0,3,-4,"Darkvision 30 Ft., passive Perception 10",,1/4,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,Swarm Of Ravens,Medium,Swarm of tiny beasts,unaligned,12,24,6,-2,14,2,8,-1,3,-4,12,1,6,-2,passive Perception 15,,1/4,0,0,0,0,0,0,10,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+278,Swarm Of Spiders,Medium,Swarm of tiny beasts,unaligned,12,22,3,-4,13,1,10,0,1,-5,7,-2,1,-5,"Blindsight 10 Ft., passive Perception 8",,1/2,0,0,0,0,0,0,20,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0
+279,Swarm Of Wasps,Medium,Swarm of tiny beasts,unaligned,12,22,3,-4,13,1,10,0,1,-5,7,-2,1,-5,"Blindsight 10 Ft., passive Perception 8",,1/2,0,0,0,0,0,0,5,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Tarrasque,Gargantuan,Monstrosity (titan),unaligned,25,676,30,1,11,0,30,1,3,-4,11,0,11,0,"Blindsight 120 Ft., passive Perception 10",,30,0,0,0,5,9,9,40,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+281,Thug,Medium,Humanoid (any race),any non-good alignment,11,32,15,2,11,0,14,2,10,0,10,0,11,0,passive Perception 10,Any One Language (Usually Common),1/2,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+282,Tiger,Large,Beast,unaligned,12,37,17,3,15,2,14,2,3,-4,12,1,8,-1,"Darkvision 60 Ft., passive Perception 13",,1,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+283,Treant,Huge,Plant,chaotic good,16,138,23,6,8,-1,21,5,12,1,16,3,12,1,passive Perception 13,"Common, Druidic, Elvish, Sylvan",9,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,Tribal Warrior,Medium,Humanoid (any race),any alignment,12,11,13,1,11,0,12,1,8,-1,11,0,8,-1,,Any One Language,1/8,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+285,Triceratops,Huge,Beast,unaligned,13,95,22,6,9,-1,17,3,2,-4,11,0,5,-3,,,5,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+286,Troll,Large,Giant,chaotic evil,15,84,18,4,13,1,20,5,7,-2,9,-1,7,-2,"Darkvision 60 Ft., passive Perception 12",Giant,5,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+287,Tyrannosaurus Rex,Huge,Beast,unaligned,13,136,25,7,10,0,19,4,2,-4,12,1,9,-1,passive Perception 14,,8,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+288,Unicorn,Large,Celestial,lawful good,12,67,18,4,14,2,15,2,11,0,17,3,16,3,"Darkvision 60 Ft., passive Perception 13","Celestial, Elvish, Sylvan, Telepathy 60 Ft.",5,0,0,0,0,0,0,50,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+289,Vampire,Medium,Undead (shapechanger),lawful evil,16,144,18,4,18,4,18,4,17,3,15,2,18,4,"Darkvision 120 Ft., passive Perception 17",The Languages It Knew In Life,13,0,9,0,0,7,9,30,0,0,0,0,3,0,7,9,0,0,0,0,0,0,0,0
+290,Vampire Spawn,Medium,Undead,neutral evil,15,82,16,3,16,3,16,3,11,0,10,0,12,1,"Darkvision 60 Ft., passive Perception 13",The Languages It Knew In Life,5,0,6,0,0,3,0,30,0,0,0,0,0,0,3,6,0,0,0,0,0,0,0,0
+291,Veteran,Medium,Humanoid (any race),any alignment,17,58,16,3,13,1,14,2,10,0,11,0,10,0,passive Perception 12,Any One Language (Usually Common),3,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Violet Fungus,Medium,Plant,unaligned,5,18,3,-4,1,-5,10,0,1,-5,3,-4,1,-5,"Blindsight 30 Ft. (Blind Beyond This Radius), passive Perception 6",,1/4,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+293,Vrock,Large,Fiend (demon),chaotic evil,15,104,17,3,15,2,18,4,8,-1,13,1,8,-1,"Darkvision 120 Ft., passive Perception 11","Abyssal, Telepathy 120 Ft.",6,0,5,0,0,4,2,40,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Vulture,Medium,Beast,unaligned,10,5,7,-2,10,0,13,1,2,-4,12,1,4,-3,passive Perception 13,,0,0,0,0,0,0,0,10,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+295,Warhorse,Large,Beast,unaligned,11,19,18,4,12,1,13,1,2,-4,12,1,7,-2,,,1/2,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+296,Warhorse Skeleton,Large,Undead,lawful evil,13,22,18,4,12,1,15,2,2,-4,8,-1,5,-3,"Darkvision 60 Ft., passive Perception 9",,1/2,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+297,Water Elemental,Large,Elemental,neutral,14,114,18,4,14,2,18,4,5,-3,10,0,8,-1,"Darkvision 60 Ft., passive Perception 10",Aquan,5,0,0,0,0,0,0,30,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+298,Weasel,Tiny,Beast,unaligned,13,1,3,-4,16,3,8,-1,2,-4,12,1,3,-4,passive Perception 13,,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+299,Werebear,Medium,Humanoid (human,shapechanger),10,135,19,4,10,0,17,3,11,0,12,1,12,1,passive Perception 17,Common (Can't Speak In Bear Form),5,0,0,0,0,0,0,30,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0
+300,Wereboar,Medium,Humanoid (human,shapechanger),10,78,17,3,10,0,15,2,10,0,11,0,8,-1,passive Perception 12,Common (Can't Speak In Boar Form),4,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+301,Wererat,Medium,Humanoid (human,shapechanger),12,33,10,0,15,2,12,1,11,0,10,0,8,-1,"Darkvision 60 Ft. (Rat Form Only), passive Perception 12",Common (Can't Speak In Rat Form),2,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+302,Weretiger,Medium,Humanoid (human,shapechanger),12,120,17,3,15,2,16,3,10,0,13,1,11,0,"Darkvision 60 Ft., passive Perception 15",Common (Can't Speak In Tiger Form),4,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+303,Werewolf,Medium,Humanoid (human,shapechanger),11,58,15,2,13,1,14,2,10,0,11,0,10,0,passive Perception 14,Common (Can't Speak In Wolf Form),3,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+304,White Dragon Wyrmling,Medium,Dragon,chaotic evil,16,32,14,2,10,0,14,2,5,-3,10,0,11,0,"Blindsight 10 Ft., Darkvision 60 Ft., passive Perception 14",Draconic,2,0,2,4,0,2,2,30,30,60,0,15,0,0,4,2,0,0,0,0,0,0,0,0
+305,Wight,Medium,Undead,neutral evil,14,45,15,2,14,2,16,3,10,0,13,1,15,2,"Darkvision 60 Ft., passive Perception 13",The Languages It Knew In Life,3,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+306,Will-O'-Wisp,Tiny,Undead,chaotic evil,19,22,1,-5,28,9,10,0,13,1,14,2,11,0,"Darkvision 120 ft., passive Perception 12",the languages it knew in life,2,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+307,Winter Wolf,Large,Monstrosity,neutral evil,13,75,18,4,13,1,14,2,7,-2,12,1,8,-1,passive Perception 15,"Common, Giant, Winter Wolf",3,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+308,Wolf,Medium,Beast,unaligned,13,11,12,1,15,2,12,1,3,-4,12,1,6,-2,passive Perception 13,,1/4,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+309,Worg,Large,Monstrosity,neutral evil,13,26,16,3,13,1,13,1,7,-2,11,0,8,-1,"Darkvision 60 Ft., passive Perception 14","Goblin, Worg",1/2,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+310,Wraith,Medium,Undead,neutral evil,13,67,6,-2,16,3,16,3,12,1,14,2,15,2,"Darkvision 60 Ft., passive Perception 12",The Languages It Knew In Life,5,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+311,Wyvern,Large,Dragon,unaligned,13,110,19,4,10,0,16,3,5,-3,12,1,6,-2,"Darkvision 60 Ft., passive Perception 14",,6,0,0,0,0,0,0,20,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+312,Xorn,Medium,Elemental,neutral,19,73,17,3,10,0,22,6,11,0,10,0,11,0,"Darkvision 60 Ft., Tremorsense 60 Ft., passive Perception 16",Terran,5,0,0,0,0,0,0,20,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0
+313,Young Black Dragon,Large,Dragon,chaotic evil,18,127,19,4,14,2,17,3,12,1,11,0,15,2,"Blindsight 30 Ft., Darkvision 120 Ft., passive Perception 16","Common, Draconic",7,0,5,6,0,3,5,40,40,80,0,0,0,0,6,5,0,0,0,0,0,0,0,0
+314,Young Blue Dragon,Large,Dragon,lawful evil,18,152,21,5,10,0,19,4,14,2,13,1,17,3,"Blindsight 30 Ft., Darkvision 120 Ft., passive Perception 19","Common, Draconic",9,0,4,8,0,5,7,40,0,80,0,40,0,0,9,4,0,0,0,0,0,0,0,0
+315,Young Brass Dragon,Large,Dragon,chaotic good,17,110,19,4,10,0,17,3,12,1,11,0,15,2,"Blindsight 30 Ft., Darkvision 120 Ft., passive Perception 16","Common, Draconic",6,0,3,6,0,3,5,40,0,80,0,20,0,0,6,3,5,0,0,0,0,0,0,0
+316,Young Bronze Dragon,Large,Dragon,lawful good,18,142,21,5,10,0,19,4,14,2,13,1,17,3,"Blindsight 30 Ft., Darkvision 120 Ft., passive Perception 17","Common, Draconic",8,0,3,7,0,4,6,40,40,80,0,0,0,0,7,3,0,4,0,0,0,0,0,0
+317,Young Copper Dragon,Large,Dragon,chaotic good,17,119,19,4,12,1,17,3,16,3,13,1,15,2,"Blindsight 30 Ft., Darkvision 120 Ft., passive Perception 17","Common, Draconic",7,0,4,6,0,4,5,40,0,80,40,0,0,0,7,4,0,0,5,0,0,0,0,0
+318,Young Gold Dragon,Large,Dragon,lawful good,18,178,23,6,14,2,21,5,16,3,13,1,20,5,"Blindsight 30 Ft., Darkvision 120 Ft., passive Perception 19","Common, Draconic",10,0,6,9,0,5,9,40,40,80,0,0,0,0,9,6,9,5,0,0,0,0,0,0
+319,Young Green Dragon,Large,Dragon,lawful evil,18,136,19,4,12,1,17,3,16,3,13,1,15,2,"Blindsight 30 Ft., Darkvision 120 Ft., passive Perception 17","Common, Draconic",8,0,4,6,0,4,5,40,40,80,0,0,0,0,7,4,0,0,5,0,0,0,0,0
+320,Young Red Dragon,Large,Dragon,chaotic evil,18,178,23,6,10,0,21,5,14,2,11,0,19,4,"Blindsight 30 Ft., Darkvision 120 Ft., passive Perception 18","Common, Draconic",10,0,4,9,0,4,8,40,0,80,40,0,0,0,8,4,0,0,0,0,0,0,0,0
+321,Young Silver Dragon,Large,Dragon,lawful good,18,168,23,6,10,0,21,5,14,2,11,0,19,4,"Blindsight 30 Ft., Darkvision 120 Ft., passive Perception 18","Common, Draconic",9,0,4,9,0,4,8,40,0,80,0,0,0,6,8,4,0,0,0,6,0,0,0,0
+322,Young White Dragon,Large,Dragon,chaotic evil,17,133,18,4,10,0,18,4,6,-2,11,0,12,1,"Blindsight 30 Ft., Darkvision 120 Ft., passive Perception 16","Common, Draconic",6,0,3,7,0,3,4,40,40,80,0,20,0,0,6,3,0,0,0,0,0,0,0,0
+323,Zombie,Medium,Undead,neutral evil,8,22,13,1,6,-2,16,3,3,-4,6,-2,5,-3,"Darkvision 60 Ft., passive Perception 8",Understands All Languages It Spoke In Life But Can't Speak,1/4,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
